@@ -5,8 +5,7 @@ Welcome to my public repository for the **Data Structures and Algorithms** cours
 ## 📁 Repository Structure
 
  - `Homework/`  – Completed homework assignments  
-- `notes/`     – Class notes and study materials  
-- `problems/`  – Extra problems and coding practice  
+- `notes/`     – Class notes and study materials    
 - `README.md`  – You are here!
 
 
