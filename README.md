@@ -1,4 +1,4 @@
-# Data Structures and Algorithms – Course Repository
+# Data Structures and Algorithms in C++ – Course Repository
 
 Welcome to my public repository for the **Data Structures and Algorithms** course. This repo includes **homework assignments**, **class notes**, and **practice problems** I’ve completed throughout the course.
 
