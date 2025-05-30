@@ -47,10 +47,12 @@ void BankAccount::setName(string name){
     this->name = name;
 }
 void BankAccount::deposit(double amount){
-    balance += amount;
+    if(amount > 0){
+        balance += amount;
+    }
 }
 void BankAccount::withdraw(double amount){
-   if(balance >= amount){
+   if(balance >= amount && amount > 0){
     balance -= amount;
    }
 }
